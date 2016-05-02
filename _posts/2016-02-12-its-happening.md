@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-12T23:53:18.637Z'
-dateModified: '2016-02-12T23:38:38.499Z'
+datePublished: '2016-05-02T19:53:23.187Z'
+dateModified: '2016-05-02T19:50:30.668Z'
 title: "It's Happening!"
 author: []
 authors: []
@@ -18,6 +17,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-02-12-its-happening.md
 published: true
+starred: false
 url: its-happening/index.html
 _type: Article
 
